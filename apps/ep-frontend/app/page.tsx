@@ -11,7 +11,7 @@ export default async function Index() {
       <div className="wrapper">
         <div className="container">
           <div id="welcome">
-            <h1>
+            <h1 className='bg-red-200'>
               <span> Hello there, </span>
               Welcome ep-frontend 👋
             </h1>
